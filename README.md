@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreaslyVR
+- 👋 Hi, I’m SikBet
 - 👀 I’m interested in gtag mods
 - 🌱 I’m currently learning python and c++
 - 💞️ I’m looking to collaborate on a gtag fan game
